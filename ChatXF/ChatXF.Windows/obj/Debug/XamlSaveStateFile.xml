@@ -1,0 +1,15 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <ReferenceAssembly PathName="c:\_wsgermosentest\chatxf-master\chatxf\chatxf\bin\debug\chatxf.dll" HashGuid="660079b6-dd8c-dfa1-0e91-c0d2931899d3" />
+    <ReferenceAssembly PathName="c:\_wsgermosentest\chatxf-master\packages\microsoft.azure.mobile.client.3.0.3\lib\netcore45\microsoft.windowsazure.mobile.dll" HashGuid="b1dcaa97-cc41-a02d-c94f-f367893aa987" />
+    <ReferenceAssembly PathName="c:\_wsgermosentest\chatxf-master\packages\microsoft.azure.mobile.client.3.0.3\lib\netcore45\microsoft.windowsazure.mobile.ext.dll" HashGuid="ca4a9b71-1bae-b7c2-7659-e118514011db" />
+    <ReferenceAssembly PathName="c:\_wsgermosentest\chatxf-master\packages\newtonsoft.json.9.0.1\lib\portable-net45+wp80+win8+wpa81\newtonsoft.json.dll" HashGuid="424e6aa8-ba94-c678-e707-af9fe9838e1a" />
+    <ReferenceAssembly PathName="c:\_wsgermosentest\chatxf-master\packages\microsoft.net.http.2.2.29\lib\win8\system.net.http.extensions.dll" HashGuid="b50282f8-b9f8-4408-8d49-ba2efe301624" />
+    <ReferenceAssembly PathName="c:\_wsgermosentest\chatxf-master\packages\microsoft.net.http.2.2.29\lib\win8\system.net.http.primitives.dll" HashGuid="7b71418d-e056-7613-c839-85fb8f6472a6" />
+    <ReferenceAssembly PathName="c:\_wsgermosentest\chatxf-master\packages\xamarin.forms.2.2.0.45\lib\win81\xamarin.forms.core.dll" HashGuid="2a418b72-55c1-19a8-a363-4b8c348fbee0" />
+    <ReferenceAssembly PathName="c:\_wsgermosentest\chatxf-master\packages\xamarin.forms.2.2.0.45\lib\win81\xamarin.forms.platform.dll" HashGuid="bb4040f4-26bb-5883-795e-627e39855666" />
+    <ReferenceAssembly PathName="c:\_wsgermosentest\chatxf-master\packages\xamarin.forms.2.2.0.45\lib\win81\xamarin.forms.platform.winrt.dll" HashGuid="068a3578-03d9-2580-f12e-c531e1d2d71c" />
+    <ReferenceAssembly PathName="c:\_wsgermosentest\chatxf-master\packages\xamarin.forms.2.2.0.45\lib\win81\xamarin.forms.platform.winrt.tablet.dll" HashGuid="9b9da374-307d-5504-a527-efe9a46940ca" />
+    <ReferenceAssembly PathName="c:\_wsgermosentest\chatxf-master\packages\xamarin.forms.2.2.0.45\lib\win81\xamarin.forms.xaml.dll" HashGuid="39a2c026-b4e0-6e41-04bc-58950ef1ecfd" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>
